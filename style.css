@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  margin: 250px auto;
+  text-align: center;
+  font-size: 30px;
+}
+
+.click {
+  padding: 8px;
+  background-color: darkgray;
+  font-size: 30px;
+  border-radius: 4px;
+}
