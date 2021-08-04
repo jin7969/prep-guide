@@ -1,3 +1,4 @@
+/* container */
 .container {
   width: 100%;
   margin: 250px auto;
@@ -5,6 +6,7 @@
   font-size: 30px;
 }
 
+/* button */
 .click {
   padding: 8px;
   background-color: darkgray;

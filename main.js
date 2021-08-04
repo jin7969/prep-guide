@@ -30,6 +30,8 @@ function hexGenerator() {
   changeColor(result);
 }
 
+// color,color code output
+
 function changeColor(color) {
   const name = document.querySelector(".colorName");
 
